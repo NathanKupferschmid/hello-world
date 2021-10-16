@@ -1,2 +1,5 @@
 # hello-world
-My first GitHub repository
+
+Hello, I am Nathan Kupferschmid.
+
+I'm currently studying physics at EPFL.
